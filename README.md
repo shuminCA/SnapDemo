@@ -18,7 +18,7 @@ npm install embedchain
 Install Streamlit
 ```
 pip install streamlit
-pip install streamlit_cha
+pip install streamlit_chat
 ```
 
 
